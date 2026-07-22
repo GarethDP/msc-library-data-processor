@@ -1,0 +1,8 @@
+==================================================
+        LIBRARY OPERATIONAL SUMMARY REPORT (2023)
+==================================================
+Total Valid Transactions Processed : 2158
+Average Loan Duration               : 11.26 Days
+Overdue Transaction Rate           : 33.46%
+Average Overdue Period (Late Items): 3.97 Days
+==================================================

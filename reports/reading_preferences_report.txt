@@ -1,0 +1,20 @@
+==================================================
+       GENRE PREFERENCES & POPULARITY REPORT
+==================================================
+
+LOANS BY GENRE:
+ - Fiction        : 677 loans
+ - Non-fiction    : 550 loans
+ - Tech           : 386 loans
+ - Science        : 150 loans
+ - Philosophy     : 100 loans
+ - Biography      : 27 loans
+ - Mystery        : 24 loans
+
+TOP 5 MOST BORROWED BOOKS (BY TOTAL DAYS):
+ 1. The Hunger Games                    : 325 Total Days
+ 2. The Complete Mastermind             : 322 Total Days
+ 3. The Casual Vacancy                  : 316 Total Days
+ 4. Asami Asami                         : 304 Total Days
+ 5. Real Murders                        : 300 Total Days
+==================================================
